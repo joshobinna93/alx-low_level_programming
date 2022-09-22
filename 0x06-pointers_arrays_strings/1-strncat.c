@@ -1,8 +1,8 @@
 #include "main.h"
-
 /**
  * _strcat - concatenate two strings
  * @dest: string to be copied to
+ *
  * @src: string to copy
  * Return: a pointer to the resulting string @dest
  */
